@@ -3,3 +3,6 @@
 name: ai-samples
 metadata:
   template: ai-samples@0.0.1-beta
+infrastructure:
+  provider: bicep
+  path: src/quickstarts/azure-openai/infra
